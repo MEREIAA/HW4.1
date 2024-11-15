@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">HW4.1</string>
+    <string name="string">Вход</string>
+    <string name="string1">Добро пожаловать!</string>
+    <string name="string2">Выполните вход \nили зарегистрируйтесь.</string>
+    <string name="string4">Введите вашу почту</string>
+    <string name="string5">Введите пароль</string>
+    <string name="string6">Войти</string>
+    <string name="string7">Забыли пароль?</string>
+    <string name="string8">Нажмите сюда</string>
+</resources>
